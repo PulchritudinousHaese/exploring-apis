@@ -13,3 +13,12 @@ https://app.sportdataapi.com/documentation
 https://docs.sportmonks.com/football/welcome/getting-started (*)
 - Token: QitEucGKAXbCkSJAboUWB4FMyECopeJ5iPoR3BMaHfxuIrVPkhab5hyCKIkD
 ![img.png](img.png)
+
+- Example Java Code Output:
+![img_1.png](img_1.png)
+
+
+
+
+
+Technical Issues: SportMonkey API is not really "free" to use, so will have to switch to a new API.
