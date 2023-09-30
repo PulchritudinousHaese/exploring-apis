@@ -11,5 +11,5 @@ https://developer.sportradar.com/docs/read/Home
 https://app.sportdataapi.com/documentation
 
 https://docs.sportmonks.com/football/welcome/getting-started (*)
-- QitEucGKAXbCkSJAboUWB4FMyECopeJ5iPoR3BMaHfxuIrVPkhab5hyCKIkD
+- Token: QitEucGKAXbCkSJAboUWB4FMyECopeJ5iPoR3BMaHfxuIrVPkhab5hyCKIkD
 ![img.png](img.png)
